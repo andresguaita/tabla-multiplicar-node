@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Fernando Herrera",
+  "author": "Andres Guaita",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.1.2",
